@@ -1,0 +1,17 @@
+Yüzyýllýk Yalnýzlýk,Gabriel Garcia Marquez,1967,472 
+Martin Eden,Jack London,1909,520
+Veronika Ölmek Ýstiyor,Paulo Coelho,1998,200
+Beyaz Geceler,Dostoyevski,1848,218
+Ýki Þehrin Hikayesi,Charles Dickens,1859,544
+Kral Oidipus,Sophokles,MÖ 429,80
+Gurur ve Önyargý,Jane Austen,1813,224
+Dune,Frank Herbert,1965,688
+Koleksiyoncu,John Fowles,1963,272
+Sýrça Fanus,Sylvia Plath,1963,280
+Kýrmýzý Pazartesi,Gabriel Garcia Marquez,1981,120
+Arayýþlar,Lou Andreas Salome,2016,65
+Dava,Franz Kafka,1925,248
+Muhteþem Gatsby,F.Scott Ftzgerald,2015,168
+Ýntihar Dükkaný,Jean Teule,2011,144
+Sodom ve Gomore,Yakup Kadri Karaosmanoðlu,2004,311
+Feniçka,Lou Andreas Salome,2016,70
